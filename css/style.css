@@ -224,3 +224,32 @@ header {
     background-color: #FF900E;
     transition: 2s ease-out;
 }
+
+/* Our Sponspors section */
+.Sponspors-section {
+    margin: 50px 0;
+}
+
+.Sponspors-title {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.Sponspors-title h1 {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.Sponspors-title p {
+    font-size: 16px;
+}
+
+.Sponspors-item {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.Sponspors-item img {
+    width: 150px;
+}
